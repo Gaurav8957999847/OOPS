@@ -113,6 +113,3 @@ All examples revolve around a **Car** theme to make abstract OOP concepts intuit
 
 ---
 
-## 📜 License
-
-This project is for **educational purposes**. Feel free to use, modify, and share.
